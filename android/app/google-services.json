@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972450305670",
+    "project_id": "money-7487d",
+    "storage_bucket": "money-7487d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972450305670:android:bcbb10724669cd69f92307",
+        "android_client_info": {
+          "package_name": "com.example.whereismymoney"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx9TPzqh4ATfBg5_a-zbG2nPcgFwECDpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
